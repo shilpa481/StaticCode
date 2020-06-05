@@ -1,0 +1,56 @@
+.page-header {
+  margin-bottom: 0;
+}
+.center {
+    text-align: center;
+}
+.page-header .title h1 {
+    font-weight: 900;
+    text-align: center;
+    font-family: 'IBM Plex Sans Medium';
+    padding-top: 80px;
+}
+
+.button {
+    text-align: center;
+    font:white;
+}
+
+
+.login-txt {
+    text-align: center;
+    font-style:italic ;
+    font-weight:600;
+    padding-top:1em;
+    color:#56A5EC;
+    text-decoration:none;
+}
+
+.leading-txt {
+    background-color: black;
+    text-align: center;
+    font:white;
+}
+
+.wp-content h4 {
+    color:white;
+    font-weight: 700;
+    text-align: center;
+    margin-top:2em;
+}
+
+.wp-content h6 {
+    color:white;
+    font-weight:200;
+    text-align: center;
+}
+
+.icon-margin {
+    margin-right:2em;
+    margin-top:2em;
+}
+
+@media only screen and (max-width: 672px) {
+
+
+}
